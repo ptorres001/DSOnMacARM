@@ -26,3 +26,9 @@ dependencies:
   - termcolor
   - typing_extensions
   - wrapt
+  - jupyterlab
+  - pandas
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - notebook
